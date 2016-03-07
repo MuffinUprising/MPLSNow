@@ -1,0 +1,6 @@
+framework module Pods_MPLSNow {
+  umbrella header "Pods-MPLSNow-umbrella.h"
+
+  export *
+  module * { export * }
+}
